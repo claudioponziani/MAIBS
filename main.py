@@ -1,4 +1,4 @@
-from demo_subclass import Student
+from python_fundamentals.demo_subclass import Student
 
 student1 = Student('John', 'Pearson')
 print(student1.gradutationYear)
